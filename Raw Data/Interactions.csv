@@ -1,0 +1,11 @@
+postid,userid,interactiontype,CreatedAt
+1,2,Like,NOW()
+1,3,Share,NOW()
+2,1,Like,NOW()
+2,4,Like,NOW()
+3,5,Share,NOW()
+3,6,Like,NOW()
+4,7,Share,NOW()
+4,8,Like,NOW()
+5,9,Like,NOW()
+5,10,Share,NOW()

@@ -1,0 +1,11 @@
+userid,content,CreatedAt
+1,This is the first post!, NOW()
+2,"Another day, another post.", NOW()
+3,Loving this new feature!,NOW()
+4,Can’t wait for the weekend!,NOW()
+5,Check out my latest update.,NOW()
+6,Feeling excited about the project.,NOW()
+7,Just had an amazing lunch.,NOW()
+8,What a fantastic event last night!,NOW()
+9,Here is a cool photo I took.,NOW()
+10,Looking forward to tomorrowâ€™s meeting., NOW()
